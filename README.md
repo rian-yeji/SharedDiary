@@ -1,0 +1,2 @@
+# SharedDiary
+Android Study Project
