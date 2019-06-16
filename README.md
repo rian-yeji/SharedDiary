@@ -26,8 +26,8 @@ SharedDiary는 여행 계획 및 다이어리를 기록하고 공유할 수 있�
 세부 일정 계획 화면에서 비용이 발생하는 일정인 경우 식비, 교통비 숙박비등 카테고리별로 지출내역을 추가할 수 있다.
 <br>
 <img src="/image/travel3.png" width="250px" heigth="510px">
-<img src="/image/cost1.png" width="250px" heigth="510px">
 <img src="/image/cost2.png" width="250px" heigth="510px">
+<img src="/image/cost3.png" width="250px" heigth="510px">
 
 
 ## 다이어리 작성
