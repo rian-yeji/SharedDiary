@@ -17,14 +17,14 @@ SharedDiary는 여행 계획 및 다이어리를 기록하고 공유할 수 있�
 
 ## 구글지도와 연동하여 계획한 지역 저장
 구글지도 API를 이용하여 방문할 장소를 검색, 저장하고 각 장소들을 선으로 연결하여 동선을 계획 할 수 있다.
-
+<br>
 <img src="/image/map1.png" width="250px" heigth="510px">
 <img src="/image/map2.png" width="250px" heigth="510px">
 
 
 ## 여행 예산 기록
 세부 일정 계획 화면에서 비용이 발생하는 일정인 경우 식비, 교통비 숙박비등 카테고리별로 지출내역을 추가할 수 있다.
-
+<br>
 <img src="/image/travel3.png" width="250px" heigth="510px">
 <img src="/image/cost1.png" width="250px" heigth="510px">
 <img src="/image/cost2.png" width="250px" heigth="510px">
@@ -32,14 +32,14 @@ SharedDiary는 여행 계획 및 다이어리를 기록하고 공유할 수 있�
 
 ## 다이어리 작성
 각 여행별로 간단한 다이어리를 남길 수 있다.
-
+<br>
 <img src="/image/diary1.png" width="250px" heigth="510px">
 <img src="/image/diary2.png" width="250px" heigth="510px">
 
 
 ## 체크리스트
 여행에 필요한 물건 목록을 정리하고 체크할 수 있다.
-
+<br>
 <img src="/image/check.png" width="250px" heigth="510px">
 
 #### 역할분담
